@@ -1,0 +1,16 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gh.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Andreeva Anna",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0",
+    "jest-puppeteer": "^9.0.0",
+    "puppeteer": "^20.5.0"
+  }
+}
